@@ -1,0 +1,16 @@
+# FiveM/QBCore
+*.log
+*.zip
+*.rar
+.cache/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Node modules (in case of NUI with npm)
+node_modules/
+
+# Temporary files
+*.tmp
+*.bak
