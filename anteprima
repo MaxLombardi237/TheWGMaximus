@@ -1,0 +1,83 @@
+# 🧟 qb-zombies
+**Fully Synced & Realistic Zombie System for QBCore**  
+Version: `2.0.0`  
+Author: **Max Lombardi**
+
+---
+
+## 📌 Description
+
+`qb-zombies` is an advanced FiveM zombie script for **QBCore** framework, providing a fully **synced**, **immersive**, and **survival-based** zombie experience.
+
+This script is ideal for roleplay, hardcore, or apocalypse-themed servers.
+
+---
+
+## 🔥 Features
+
+- 🔄 Fully synced zombies (across all clients)
+- 🧠 Realistic zombie movement & animations
+- 💥 Audio immersion (HTML/NUI based)
+- 🧪 Configurable zombie loot system
+- 🔐 SafeZone support (no spawn)
+- 🚫 Full ambient control (no traffic, no random peds)
+- ⚙️ Optimized and easy to configure
+
+---
+
+## ⚙️ Requirements
+
+- [qb-core](https://github.com/qbcore-framework/qb-core)
+- [qb-inventory](https://github.com/qbcore-framework/qb-inventory)
+
+---
+
+## 📥 Installation
+
+1. Place the `qb-zombies` folder inside your `resources` directory.
+2. Add this to your `server.cfg`:
+   ```
+   ensure qb-zombies
+   ```
+
+---
+
+## ⚙️ Configuration
+
+All parameters are editable via `config.lua`.  
+You can adjust zombie spawn count, intervals, loot items, and SafeZones.
+
+---
+
+## 📁 Folder Structure
+
+```
+qb-zombies/
+├── client/
+├── server/
+├── html/
+├── images/
+├── config.lua
+├── fxmanifest.lua
+├── README.md
+```
+
+---
+
+## 👤 Credits
+
+> Developed and maintained by **Max Lombardi**  
+> GitHub: [MaxLombardi237](https://github.com/MaxLombardi237)
+
+---
+
+## 📜 License
+
+This script is released under the MIT License (see `LICENSE.md`).
+
+
+contact  https://www.tiktok.com/@max_lombardi237
+
+https://www.twitch.tv/maxlombardi237
+
+https://discord.gg/zCZKGRqWa6
